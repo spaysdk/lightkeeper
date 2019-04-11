@@ -1,6 +1,4 @@
 { 
   "version":"0.0.1", 
-  "description":{ 
-		"it's beta version for test"
-   } 
+  "description":"it's beta version for test"
 }
