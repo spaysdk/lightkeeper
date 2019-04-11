@@ -1,4 +1,5 @@
 { 
   "version":"0.0.1", 
-  "description":"it's beta version for test"
+  "force":false,
+  "description":"Please upgrade to the latest version"
 }
