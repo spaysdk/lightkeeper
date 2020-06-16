@@ -1,5 +1,8 @@
 { 
   "version":"0.0.1", 
   "force":false,
-  "description":"Please upgrade to the latest version"
+  "description":"Please upgrade to the latest version",
+  "jiraTicket":"WEBTS-673",
+  "assigneeUser": "jh5997.hyun",
+  "watcherList":["jh5997.hyun","spay.sdk"]
 }
