@@ -1,10 +1,11 @@
-{ 
-  "version":"2.0.1", 
+  { 
+  "version":"2.1.0", 
   "force":true,
   "description":"Please upgrade to the latest version",
   "jiraTicket":"WEBTS-673",
   "assigneeUser": "jakia.s",
-  "watcherList":["miyeong.jeong", "syoungsu.seo", "jp79.hong", "yj0221.choi", "uh.bristy", "jakia.s", "fowziya.ah", "yasin.hosain", "fernanda.pl","j.wirlino"]
+  "watcherList":["miyeong.jeong", "jp79.hong", "yj0221.choi", "uh.bristy", "jakia.s", "fowziya.ah", "fernanda.pl","j.wirlino","atacílio.c","rs.silva","p.ernesto","af.barbosa","r.misseia","mh.lima"]
 }
+
 
 
